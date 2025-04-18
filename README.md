@@ -1,4 +1,3 @@
 # COP4520Project
 
-
-./run.sh
+bash run.sh
